@@ -30,3 +30,5 @@ Outputs a JSON object with the following authentication headers:
   "Authorization":           "Bearer eyJhbGciOiJIUzI1NiJ…"
 }
 ```
+
+Unofficial Valorant API docs: https://valapidocs.techchrism.me/
